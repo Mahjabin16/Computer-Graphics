@@ -1,0 +1,394 @@
+# depslib dependency file v1.0
+1629163571 source:d:\cg codes\mmp\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	"day sky.h"
+	"day sea.h"
+	"sun (D).h"
+	"night sky.h"
+	"night sea.h"
+	"moon (D).h"
+	"cloud 1.h"
+	"cloud 2.h"
+	"bird 1.h"
+	"bird 2.h"
+	"roads.h"
+	"tree (M).h"
+	"tree 1 (D).h"
+	"tree 2 (D).h"
+	"tree 3 (D).h"
+	"tree red (W).h"
+	"bush (M).h"
+	"grass 1 (M).h"
+	"grass 2 (M).h"
+	"light stand.h"
+	"bench.h"
+	"car.h"
+	"building shadow.h"
+	"buildings.h"
+	"center boat.h"
+	"yatch boat 1.h"
+	"yatch boat 2.h"
+
+1301111162 d:\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 d:\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 d:\codeblocks\mingw\include\winuser.h
+
+1301111162 d:\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 d:\codeblocks\mingw\include\winerror.h
+
+1341006776 d:\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 d:\codeblocks\mingw\include\_mingw.h
+
+1301111148 d:\codeblocks\mingw\include\basetsd.h
+
+1301111156 d:\codeblocks\mingw\include\pshpack4.h
+
+1301111156 d:\codeblocks\mingw\include\poppack.h
+
+1301111164 d:\codeblocks\mingw\include\winver.h
+
+1301111148 d:\codeblocks\mingw\include\dde.h
+
+1301111150 d:\codeblocks\mingw\include\dlgs.h
+
+1301111148 d:\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 d:\codeblocks\mingw\include\prsht.h
+
+1301111162 d:\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 d:\codeblocks\mingw\include\wincon.h
+
+1301111160 d:\codeblocks\mingw\include\winbase.h
+
+1301111162 d:\codeblocks\mingw\include\wingdi.h
+
+1301111162 d:\codeblocks\mingw\include\winnls.h
+
+1301111162 d:\codeblocks\mingw\include\winnetwk.h
+
+1301111162 d:\codeblocks\mingw\include\winreg.h
+
+1301111164 d:\codeblocks\mingw\include\winsvc.h
+
+1301111148 d:\codeblocks\mingw\include\cderr.h
+
+1301111148 d:\codeblocks\mingw\include\ddeml.h
+
+1301111150 d:\codeblocks\mingw\include\imm.h
+
+1301111154 d:\codeblocks\mingw\include\lzexpand.h
+
+1301111154 d:\codeblocks\mingw\include\mmsystem.h
+
+1301111154 d:\codeblocks\mingw\include\nb30.h
+
+1301111158 d:\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 d:\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 d:\codeblocks\mingw\include\basetyps.h
+
+1301111158 d:\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 d:\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 d:\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 d:\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 d:\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 d:\codeblocks\mingw\include\pshpack2.h
+
+1301111162 d:\codeblocks\mingw\include\winperf.h
+
+1301111148 d:\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 d:\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 d:\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 d:\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 d:\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 d:\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 d:\codeblocks\mingw\include\winspool.h
+
+1301111162 d:\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 d:\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 d:\codeblocks\mingw\include\mswsock.h
+
+1301111156 d:\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 d:\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 d:\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 d:\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 d:\codeblocks\mingw\include\cguid.h
+
+1301111156 d:\codeblocks\mingw\include\olectlid.h
+
+1301111156 d:\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 d:\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 d:\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1622987889 d:\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+
+1301111164 d:\codeblocks\mingw\include\gl\gl.h
+
+1301111164 d:\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1341006774 d:\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1629138969 d:\cg codes\mmp\day sky.h
+
+1629138935 d:\cg codes\mmp\day sea.h
+
+1629141310 d:\cg codes\mmp\sun (d).h
+
+1629138987 d:\cg codes\mmp\night sky.h
+
+1629138983 d:\cg codes\mmp\night sea.h
+
+1629140673 d:\cg codes\mmp\moon (d).h
+
+1629131763 d:\cg codes\mmp\cloud 1.h
+
+1629131736 d:\cg codes\mmp\cloud 2.h
+
+1629115257 d:\cg codes\mmp\bird 1.h
+
+1629115260 d:\cg codes\mmp\bird 2.h
+
+1629125005 d:\cg codes\mmp\roads.h
+
+1629064739 d:\cg codes\mmp\tree (m).h
+
+1629092207 d:\cg codes\mmp\tree 1 (d).h
+
+1629093508 d:\cg codes\mmp\tree 2 (d).h
+
+1629093748 d:\cg codes\mmp\tree 3 (d).h
+
+1629095088 d:\cg codes\mmp\tree red (w).h
+
+1629129789 d:\cg codes\mmp\bush (m).h
+
+1629130304 d:\cg codes\mmp\grass 1 (m).h
+
+1629130182 d:\cg codes\mmp\grass 2 (m).h
+
+1629090638 d:\cg codes\mmp\light stand.h
+
+1629091556 d:\cg codes\mmp\bench.h
+
+1629165356 d:\cg codes\mmp\car.h
+
+1629128020 d:\cg codes\mmp\building shadow.h
+
+1629090468 d:\cg codes\mmp\buildings.h
+
+1629060802 d:\cg codes\mmp\center boat.h
+
+1629063233 d:\cg codes\mmp\yatch boat 1.h
+
+1629114471 d:\cg codes\mmp\yatch boat 2.h
+
+1629171174 source:c:\users\sys\desktop\cg\mmp\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	"day sky.h"
+	"day sea.h"
+	"sun (D).h"
+	"night sky.h"
+	"night sea.h"
+	"moon (D).h"
+	"cloud 1.h"
+	"cloud 2.h"
+	"bird 1.h"
+	"bird 2.h"
+	"roads.h"
+	"tree (M).h"
+	"tree 1 (D).h"
+	"tree 2 (D).h"
+	"tree 3 (D).h"
+	"tree red (W).h"
+	"bush (M).h"
+	"grass 1 (M).h"
+	"grass 2 (M).h"
+	"light stand.h"
+	"bench.h"
+	"car.h"
+	"building shadow.h"
+	"buildings.h"
+	"center boat.h"
+	"yatch boat 1.h"
+	"yatch boat 2.h"
+
+1629138969 c:\users\sys\desktop\cg\mmp\day sky.h
+
+1629138935 c:\users\sys\desktop\cg\mmp\day sea.h
+
+1629141310 c:\users\sys\desktop\cg\mmp\sun (d).h
+
+1629138987 c:\users\sys\desktop\cg\mmp\night sky.h
+
+1629138983 c:\users\sys\desktop\cg\mmp\night sea.h
+
+1629140673 c:\users\sys\desktop\cg\mmp\moon (d).h
+
+1629131763 c:\users\sys\desktop\cg\mmp\cloud 1.h
+
+1629131736 c:\users\sys\desktop\cg\mmp\cloud 2.h
+
+1629115257 c:\users\sys\desktop\cg\mmp\bird 1.h
+
+1629115260 c:\users\sys\desktop\cg\mmp\bird 2.h
+
+1629125005 c:\users\sys\desktop\cg\mmp\roads.h
+
+1629064739 c:\users\sys\desktop\cg\mmp\tree (m).h
+
+1629092207 c:\users\sys\desktop\cg\mmp\tree 1 (d).h
+
+1629093508 c:\users\sys\desktop\cg\mmp\tree 2 (d).h
+
+1629093748 c:\users\sys\desktop\cg\mmp\tree 3 (d).h
+
+1629095088 c:\users\sys\desktop\cg\mmp\tree red (w).h
+
+1629166940 c:\users\sys\desktop\cg\mmp\bush (m).h
+
+1629130304 c:\users\sys\desktop\cg\mmp\grass 1 (m).h
+
+1629130182 c:\users\sys\desktop\cg\mmp\grass 2 (m).h
+
+1629090638 c:\users\sys\desktop\cg\mmp\light stand.h
+
+1629091556 c:\users\sys\desktop\cg\mmp\bench.h
+
+1629165356 c:\users\sys\desktop\cg\mmp\car.h
+
+1629128020 c:\users\sys\desktop\cg\mmp\building shadow.h
+
+1629090468 c:\users\sys\desktop\cg\mmp\buildings.h
+
+1629060802 c:\users\sys\desktop\cg\mmp\center boat.h
+
+1629063233 c:\users\sys\desktop\cg\mmp\yatch boat 1.h
+
+1629114471 c:\users\sys\desktop\cg\mmp\yatch boat 2.h
+
